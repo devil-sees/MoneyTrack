@@ -8,9 +8,7 @@ _________________________________________________________
 
 The program is password protected
 
- ==================
-||  Password : sarthak  ||
- ==================
+Password: sarthak
 
 (case sensitive)
 _________________________________________________________
@@ -43,8 +41,8 @@ REMEMBER -
 2. All your data will be saved in a file named DO_NOT_DELETE.db
     which will be automatically created on first time usage of the program.
 
-==========================================================
-==========================================================
+
+
 
 A program designed and created by Sarthak Goel
 
